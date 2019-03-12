@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+/* lol custom css */
+.bg {
+  /* The image used */
+  background-image: url("codezzz.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+=======
+/* lol custom css */
+.bg {
+  /* The image used */
+  background-image: url("codezzz.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+>>>>>>> 6ab98375922ebb8d39ac336ae62d824f36af0260
