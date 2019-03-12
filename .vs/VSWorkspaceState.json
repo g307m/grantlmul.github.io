@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\edu",
+    "\\edu\\career",
     "\\edu\\career\\desc",
+    "\\edu\\career\\desc\\resources",
     "\\edu\\career\\edu",
-    "\\edu\\career\\pay"
+    "\\edu\\career\\edu\\resources",
+    "\\edu\\career\\pay",
+    "\\edu\\career\\pay\\resources"
   ],
-  "SelectedNode": "\\edu\\index.html",
+  "SelectedNode": "\\edu\\career\\desc\\index.html",
   "PreviewInSolutionExplorer": false
 }
