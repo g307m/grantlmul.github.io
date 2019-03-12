@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\edu",
+    "\\edu\\career\\desc",
+    "\\edu\\career\\edu",
+    "\\edu\\career\\pay"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\edu\\index.html",
   "PreviewInSolutionExplorer": false
 }
